@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "638e224c9d391e82adac5c16",
+        "price": "$803.20",
+        "picture": "https://thumbs.dreamstime.com/b/python-logo-icon-vector-logos-logo-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-emblem-wallpaper-background-python-208329675.jpg",
+        "user": "",
+        "title": "Basic Python crash course",
+        "name": "Python",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+    },
+    {
+        "_id": "638e224cee4b70def8472b7f",
+        "price": "$574.87",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0JeyLTcn-kwLcHWl0gf3XzfFnot6eshV2ms8RVkEmzZst74I4X24PO8KCT7inFz46W0&usqp=CAU",
+        "user": "",
+        "title": "Basic Mern stack crash course",
+        "name": "Mern Stack",
+        "description": "MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. A variation known as MERN replaces Angular with React.MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js front-end framework is replaced with React.js. Other variants include MEVN (MongoDB, Express, Vue, Node), and really any front-end JavaScript framework can work."
+    },
+    {
+        "_id": "638e224c116acac4d12e2b77",
+        "price": "$545.39",
+        "picture": "https://www.goodworklabs.com/wp-content/uploads/2017/08/Mean.jpg",
+        "user": "",
+        "title": "Basic Mean Stack crash course",
+        "name": "Mean Stack",
+        "description": "Developers have always valued the ability to build their applications on integrated stacks of foundational technology. By using a set of standardized building blocks, they can spend more time working on applications that differentiate the business, rather than gluing lots of separate components together."
+    },
+    {
+        "_id": "638e224cb1d710c64e58a246",
+        "price": "$553.32",
+        "picture": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "user": "",
+        "title": "Basic C++ crash course",
+        "name": "C++",
+        "description": "C++ is a general-purpose, free-form programming language created by Bjarne Stroustrup in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language. Since it is an extension of C, it is also known as C with classes. It was specifically designed with an orientation towards large systems and resource-constrained software. Since its inception, C++ has expanded significantly over time. The latest version (C++20) has object-oriented, functional, and generic features in addition to low-level memory manipulation. The biggest advantage of C++ is that it is super scalable and allows developers to have a lot of control over how their applications use up resources."
+    },
+    {
+        "_id": "638e224cc3814fc71523ffdb",
+        "price": "$564.37",
+        "picture": "https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg",
+        "user": "",
+        "title": "Basic Java crash course",
+        "name": "Java",
+        "description": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+    },
+    {
+        "_id": "638e224cab49a2eb74718720",
+        "price": "$941.35",
+        "picture": "https://cms-assets.tutsplus.com/uploads/users/16/courses/221/preview_image/php-fundamentals-400x277.jpg",
+        "user": "",
+        "title": "Basic php crash course",
+        "name": "Php",
+        "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by The PHP Group."
+    }
+]
